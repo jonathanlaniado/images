@@ -1,0 +1,8 @@
+{
+    "server": "51.75.126.150",
+    "server_port": 9447,
+    "password": "password_if_required",
+    "method": "encryption_method",
+    "local_address": "0.0.0.0",
+    "local_port": 1080
+}
